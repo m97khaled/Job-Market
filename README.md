@@ -11,4 +11,6 @@ Key Features:
   
 Ideal for recruiters, job seekers, career counselors, and market analysts to navigate and understand the current job landscape effectively.
 
+Check out the [Job Market Analysis Project](https://m97khaled.github.io/Job-Market/) on Tableau Public.
+
 ![Job-Market](Job_Market.png)
